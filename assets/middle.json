@@ -1,0 +1,66 @@
+{
+  "company": {
+    "financeDepartment": {
+      "employees": {
+        "accountants": {
+          "John": {
+            "age": 30,
+            "yearsExperience": 5
+          },
+          "Jane": {
+            "age": 28,
+            "yearsExperience": 3
+          }
+        },
+        "financialAnalysts": {
+          "Mike": {
+            "age": 32,
+            "yearsExperience": 7
+          },
+          "Lisa": {
+            "age": 27,
+            "yearsExperience": 2
+          }
+        }
+      },
+      "budget": {
+        "total": 500000,
+        "allocated": 300000
+      }
+    },
+    "ITDepartment": {
+      "employees": {
+        "softwareDevelopers": {
+          "Tom": {
+            "age": 29,
+            "yearsExperience": 4
+          },
+          "Sara": {
+            "age": 31,
+            "yearsExperience": 6
+          }
+        },
+        "systemAdministrators": {
+          "Steve": {
+            "age": 35,
+            "yearsExperience": 10
+          },
+          "Melissa": {
+            "age": 26,
+            "yearsExperience": 1
+          }
+        }
+      },
+      "projects": {
+        "inventorySystem": {
+          "status": "in progress",
+          "deadline": "2023-12-31"
+        },
+        "websiteRedesign": {
+          "status": "completed",
+          "deadline": "2023-06-30"
+        }
+      }
+    }
+  }
+}

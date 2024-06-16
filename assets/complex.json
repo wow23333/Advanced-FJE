@@ -1,0 +1,79 @@
+{
+  "fruits": {
+    "citrus": {
+      "oranges": {
+        "attributes": {
+          "color": "orange",
+          "taste": "sweet-tart"
+        },
+        "availability": "year-round"
+      },
+      "grapefruits": {
+        "attributes": {
+          "color": "yellowish-pink",
+          "taste": "bitter-sweet"
+        },
+        "availability": "winter"
+      }
+    },
+    "tropical": {
+      "mangoes": {
+        "attributes": {
+          "color": "yellowish",
+          "taste": "sweet"
+        },
+        "availability": "summer"
+      },
+      "bananas": {
+        "attributes": {
+          "color": "yellow",
+          "taste": "mild"
+        },
+        "availability": "year-round"
+      }
+    },
+    "berries": {
+      "strawberries": {
+        "attributes": {
+          "color": "red",
+          "taste": "sweet"
+        },
+        "availability": "spring"
+      }
+    }
+  },
+  "vegetables": {
+    "leafy": {
+      "lettuce": {
+        "attributes": {
+          "color": "green",
+          "texture": "crunchy"
+        },
+        "availability": "year-round"
+      },
+      "spinach": {
+        "attributes": {
+          "color": "dark green",
+          "texture": "smooth"
+        },
+        "availability": "year-round"
+      }
+    },
+    "roots": {
+      "carrots": {
+        "attributes": {
+          "color": "orange",
+          "texture": "crunchy"
+        },
+        "availability": "year-round"
+      },
+      "beets": {
+        "attributes": {
+          "color": "red/purple",
+          "texture": "earthly"
+        },
+        "availability": "fall-winter"
+      }
+    }
+  }
+}

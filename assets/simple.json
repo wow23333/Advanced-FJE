@@ -1,0 +1,34 @@
+{
+  "library": {
+    "fiction": {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "genre": "Dystopian",
+      "copies": 10
+    },
+    "nonFiction": {
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "year": 2011,
+      "genre": "History",
+      "copies": 5
+    }
+  },
+  "artGallery": {
+    "paintings": {
+      "title": "Starry Night",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "style": "Post-Impressionism",
+      "price": "$90 million"
+    },
+    "sculptures": {
+      "title": "David",
+      "artist": "Michelangelo",
+      "year": 1504,
+      "material": "Marble",
+      "price": "Priceless"
+    }
+  }
+}
